@@ -1,0 +1,48 @@
+.features-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  padding: 60px 80px;
+  direction: rtl;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+}
+
+.features-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.feature-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.icon-box {
+  font-size: 26px;
+  color: #ffb100;
+  min-width: 30px;
+}
+
+.feature-item h4 {
+  margin: 0 0 5px 0;
+  font-size: 18px;
+  color: #222;
+}
+
+.feature-item p {
+  margin: 0;
+  font-size: 14px;
+  color: #666;
+}
+
+.features-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}

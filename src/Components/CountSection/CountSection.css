@@ -1,0 +1,74 @@
+.count-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 80px;
+  direction: rtl;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.count-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.count-text h2 {
+  font-size: 24px;
+  margin-bottom: 12px;
+  color: #222;
+}
+
+.count-text p {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.9;
+  margin-bottom: 30px;
+}
+
+.count-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 20px;
+}
+
+.count-box {
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.count-box:hover {
+  background-color: #ffb3009c;
+  color: #fff;
+}
+
+.count-box i {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #ffb100;
+}
+
+.count-box h3 {
+  font-size: 22px;
+  margin: 5px 0;
+  color: #222;
+}
+
+.count-box p {
+  font-size: 13px;
+  color: #666;
+}
+
+.count-image {
+  flex: 1;
+  min-width: 300px;
+}
+
+.count-image img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}

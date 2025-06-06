@@ -1,0 +1,36 @@
+.clients-swiper-container {
+  width: 100%;
+  padding: 60px 0 40px;
+  background-color: #fff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.swiper {
+  width: 100%;
+  max-width: 1440px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.client-logo {
+  height: 70px;
+  max-height: 80px;
+  width: auto;
+  max-width: 100%;
+  opacity: 0.5;
+  filter: grayscale(100%);
+  transition: all 0.3s ease;
+}
+
+.client-logo:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+  transform: scale(1.1);
+}

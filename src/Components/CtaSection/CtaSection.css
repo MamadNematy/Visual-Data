@@ -1,0 +1,50 @@
+.cta-section {
+  background-image: url("/public/assets/images/Cta/Cta-bg.jpg");
+  background-attachment: fixed; /* Parallax effect */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  color: white;
+  direction: rtl;
+  padding: 60px 20px;
+}
+
+.cta-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 40px 30px;
+  border-radius: 12px;
+  max-width: 700px;
+}
+
+.cta-overlay h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.cta-overlay p {
+  font-size: 16px;
+  margin-bottom: 30px;
+  line-height: 2;
+}
+
+.cta-btn {
+  background: transparent;
+  border: 2px solid #ffb100;
+  padding: 10px 24px;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cta-btn:hover {
+  background-color: #ffb100;
+  color: #000;
+}
