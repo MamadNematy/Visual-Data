@@ -2,6 +2,7 @@
   "name": "visual-data",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "homepage": "https://MamadNematy.github.io/Visual-Data",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
