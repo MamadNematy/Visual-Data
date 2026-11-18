@@ -9,8 +9,6 @@ A responsive, component-based website for a fictional data analytics company, bu
 [![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[🔗 Live Demo](https://visual-data-r9o7.vercel.app/) 
-
 <img src="public/assets/screenshots/visual-data-1.png" alt="Visual Data – landing page" width="85%" />
 
 </div>
