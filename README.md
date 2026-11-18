@@ -16,6 +16,7 @@ A responsive, component-based website for a fictional data analytics company, bu
 </div>
 
 ---
+[🔗 Live Demo](https://visual-data-r9o7.vercel.app/) 
 
 ## 📖 About
 
