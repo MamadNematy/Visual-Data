@@ -9,7 +9,7 @@ A responsive, component-based website for a fictional data analytics company, bu
 [![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)](https://swiperjs.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[🔗 Live Demo](https://mamadnematy.github.io/Visual-Data/) · [🐞 Report a Bug](https://github.com/MamadNematy/Visual-Data/issues)
+[🔗 Live Demo](https://visual-data-r9o7.vercel.app/) 
 
 <img src="public/assets/screenshots/visual-data-1.png" alt="Visual Data – landing page" width="85%" />
 
@@ -34,10 +34,8 @@ Visual Data is a front-end practice project that models the website of a data-dr
 | Category | Technologies |
 | --- | --- |
 | Library | React.js |
-| Language | JavaScript (ES6+) |
+| Language | JavaScript |
 | Markup & Styling | HTML5, CSS3 |
-| UI Components | Swiper.js |
-| Tools | Git, GitHub |
 
 ## 🖼️ Gallery
 
